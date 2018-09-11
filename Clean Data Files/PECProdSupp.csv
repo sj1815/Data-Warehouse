@@ -1,0 +1,44 @@
+prodID;prodDescription;Price1;Price2;unitCost;supplierName;productTypeID;TypeDescription;Buid;supplierID;supplierName_1;supplierAddress1;supplierAddress2;supplierCity;supplierState;supplierZip;supplier_sk
+5;Flake Photo Equipment            ;232.3;204.4;0;PEC     ;1;Photo Equipment    ;A;-1.0;PEC;;;;;;13.0
+12;Chromium Photo Equipment         ;565.5;457.5;0;PEC     ;1;Photo Equipment    ;A;-1.0;PEC;;;;;;13.0
+26;Simulations Photo Equipment      ;318.4;255.7;0;PEC     ;1;Photo Equipment    ;A;-1.0;PEC;;;;;;13.0
+27;Vastest Photo Equipment          ;498.1;442.3;0;PEC     ;1;Photo Equipment    ;A;-1.0;PEC;;;;;;13.0
+43;Bomber Photo Equipment           ;461.3;400.4;0;PEC     ;1;Photo Equipment    ;A;-1.0;PEC;;;;;;13.0
+2;Planetesimal Manufacturing Equipm;347.3;307;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+4;Miniaturizing Manufacturing Equip;456.2;379.6;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+7;Bandage Manufacturing Equipment  ;298;267;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+11;Sailors Manufacturing Equipment  ;340.5;290.4;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+16;Insensitivity Manufacturing Equip;200.7;180.4;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+19;Habitually Manufacturing Equipmen;509.3;419.1;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+20;Courthouses Manufacturing Equipme;285.6;243.6;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+22;Extinguisher Manufacturing Equipm;120.4;98.4;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+23;Occlusion Manufacturing Equipment;199.9;177.3;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+30;Suing Manufacturing Equipment    ;482.2;426.7;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+33;Pervasively Manufacturing Equipme;374.1;334.9;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+34;Septembers Manufacturing Equipmen;584.3;523;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+35;Birthdays Manufacturing Equipment;196.6;173.2;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+37;Escape Manufacturing Equipment   ;584.4;523.6;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+39;Disallow Manufacturing Equipment ;165.2;145.9;0;PEC     ;2;Manufacturing Equip;A;-1.0;PEC;;;;;;13.0
+1;Enumerator Polishing Equipment   ;165;142.5;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+6;Denigrating Polishing Equipment  ;566;454.5;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+8;Chalmers Polishing Equipment     ;289.2;242.6;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+15;Syntax Polishing Equipment       ;226.7;190.9;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+18;Allis Polishing Equipment        ;201.8;176.3;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+21;Weeks Polishing Equipment        ;198.8;174.2;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+24;Loaves Polishing Equipment       ;425.6;361.3;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+28;Palm Polishing Equipment         ;122.4;105.4;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+31;Bellowing Polishing Equipment    ;502.6;451.3;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+36;Duplicator Polishing Equipment   ;544.3;465.4;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+40;Subclasses Polishing Equipment   ;282.5;239;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+42;Concentrators Polishing Equipment;584.6;524.9;0;PEC     ;3;Polishing Equipment;A;-1.0;PEC;;;;;;13.0
+10;Chartable Photo Equipment        ;410.2;347.4;0;PEC     ;9;Photo Chemicals    ;C;-1.0;PEC;;;;;;13.0
+29;Millimeters Flushing Chemicals   ;295.6;251.8;241.8;TPC East;10;Flushing Chemicals ;C;-1.0;TPC East;;;;;;12.0
+25;Automobiles Fillers              ;283.8;227.6;218.5;TPC East;12;Fillers            ;D;-1.0;TPC East;;;;;;12.0
+13;Coward Covers                    ;429.8;349;328.1;TPC East;13;Covers             ;D;-1.0;TPC East;;;;;;12.0
+17;Sortie Covers                    ;248.2;213.2;206.8;TPC East;13;Covers             ;D;-1.0;TPC East;;;;;;12.0
+41;Sulkiness Covers                 ;354.3;289.8;272.4;TPC East;13;Covers             ;D;-1.0;TPC East;;;;;;12.0
+32;Embodying Cleaning Supplies      ;250.9;213.5;207.1;TPC West;5;Cleaning Supplies  ;B;-1.0;TPC West;;;;;;11.0
+9;Defeated Tray Supplies           ;559.7;476.9;448.3;TPC West;8;Tray Supplies      ;B;-1.0;TPC West;;;;;;11.0
+14;Travelings Photo Chemicals       ;274.4;242;225.1;TPC West;9;Photo Chemicals    ;C;-1.0;TPC West;;;;;;11.0
+38;Commendation Fillers             ;436.3;380;364.8;TPC West;12;Fillers            ;D;-1.0;TPC West;;;;;;11.0
+3;Tailor Jacks                     ;509.8;429.7;399.7;TPC West;15;Jacks              ;D;-1.0;TPC West;;;;;;11.0

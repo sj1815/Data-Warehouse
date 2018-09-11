@@ -1,0 +1,44 @@
+product_sk;prodID;prodDescription;price1;price2;unitCost;productTypeID;BuID;BuName;BuAbbrev
+1;5;Flake Photo Equipment            ;232.3;204.4;0;1;A;Processing Equipment;Equipment
+2;12;Chromium Photo Equipment         ;565.5;457.5;0;1;A;Processing Equipment;Equipment
+3;26;Simulations Photo Equipment      ;318.4;255.7;0;1;A;Processing Equipment;Equipment
+4;27;Vastest Photo Equipment          ;498.1;442.3;0;1;A;Processing Equipment;Equipment
+5;43;Bomber Photo Equipment           ;461.3;400.4;0;1;A;Processing Equipment;Equipment
+6;2;Planetesimal Manufacturing Equipm;347.3;307;0;2;A;Processing Equipment;Equipment
+7;4;Miniaturizing Manufacturing Equip;456.2;379.6;0;2;A;Processing Equipment;Equipment
+8;7;Bandage Manufacturing Equipment  ;298;267;0;2;A;Processing Equipment;Equipment
+9;11;Sailors Manufacturing Equipment  ;340.5;290.4;0;2;A;Processing Equipment;Equipment
+10;16;Insensitivity Manufacturing Equip;200.7;180.4;0;2;A;Processing Equipment;Equipment
+11;19;Habitually Manufacturing Equipmen;509.3;419.1;0;2;A;Processing Equipment;Equipment
+12;20;Courthouses Manufacturing Equipme;285.6;243.6;0;2;A;Processing Equipment;Equipment
+13;22;Extinguisher Manufacturing Equipm;120.4;98.4;0;2;A;Processing Equipment;Equipment
+14;23;Occlusion Manufacturing Equipment;199.9;177.3;0;2;A;Processing Equipment;Equipment
+15;30;Suing Manufacturing Equipment    ;482.2;426.7;0;2;A;Processing Equipment;Equipment
+16;33;Pervasively Manufacturing Equipme;374.1;334.9;0;2;A;Processing Equipment;Equipment
+17;34;Septembers Manufacturing Equipmen;584.3;523;0;2;A;Processing Equipment;Equipment
+18;35;Birthdays Manufacturing Equipment;196.6;173.2;0;2;A;Processing Equipment;Equipment
+19;37;Escape Manufacturing Equipment   ;584.4;523.6;0;2;A;Processing Equipment;Equipment
+20;39;Disallow Manufacturing Equipment ;165.2;145.9;0;2;A;Processing Equipment;Equipment
+21;1;Enumerator Polishing Equipment   ;165;142.5;0;3;A;Processing Equipment;Equipment
+22;6;Denigrating Polishing Equipment  ;566;454.5;0;3;A;Processing Equipment;Equipment
+23;8;Chalmers Polishing Equipment     ;289.2;242.6;0;3;A;Processing Equipment;Equipment
+24;15;Syntax Polishing Equipment       ;226.7;190.9;0;3;A;Processing Equipment;Equipment
+25;18;Allis Polishing Equipment        ;201.8;176.3;0;3;A;Processing Equipment;Equipment
+26;21;Weeks Polishing Equipment        ;198.8;174.2;0;3;A;Processing Equipment;Equipment
+27;24;Loaves Polishing Equipment       ;425.6;361.3;0;3;A;Processing Equipment;Equipment
+28;28;Palm Polishing Equipment         ;122.4;105.4;0;3;A;Processing Equipment;Equipment
+29;31;Bellowing Polishing Equipment    ;502.6;451.3;0;3;A;Processing Equipment;Equipment
+30;36;Duplicator Polishing Equipment   ;544.3;465.4;0;3;A;Processing Equipment;Equipment
+31;40;Subclasses Polishing Equipment   ;282.5;239;0;3;A;Processing Equipment;Equipment
+32;42;Concentrators Polishing Equipment;584.6;524.9;0;3;A;Processing Equipment;Equipment
+33;32;Embodying Cleaning Supplies      ;250.9;213.5;207.1;5;B;Disposable Supplies ;Supplies 
+34;9;Defeated Tray Supplies           ;559.7;476.9;448.3;8;B;Disposable Supplies ;Supplies 
+35;10;Chartable Photo Equipment        ;410.2;347.4;0;9;C;Chemicals           ;Chemicals
+36;29;Millimeters Flushing Chemicals   ;295.6;251.8;241.8;10;C;Chemicals           ;Chemicals
+37;14;Travelings Photo Chemicals       ;274.4;242;225.1;9;C;Chemicals           ;Chemicals
+38;25;Automobiles Fillers              ;283.8;227.6;218.5;12;D;Miscellaneous       ;         
+39;13;Coward Covers                    ;429.8;349;328.1;13;D;Miscellaneous       ;         
+40;17;Sortie Covers                    ;248.2;213.2;206.8;13;D;Miscellaneous       ;         
+41;41;Sulkiness Covers                 ;354.3;289.8;272.4;13;D;Miscellaneous       ;         
+42;38;Commendation Fillers             ;436.3;380;364.8;12;D;Miscellaneous       ;         
+43;3;Tailor Jacks                     ;509.8;429.7;399.7;15;D;Miscellaneous       ;         

@@ -1,0 +1,41 @@
+custID,name,address1,address2,city,state,zip,custtype
+1,Haynes,,2920 Auctor Rd.,Moraga,AZ,70314,EDUCATION
+2,Rudyard-Knapp,,9261 Nulla St.,Sault Ste. Marie,LA,94298,STATELOCALGOVT
+3,Baxter May,,796-2366 Vel Ave.,Meriden,FL,58328,COMMERCIAL
+4,Maya Brewer,P.O. Box 825 ,6836 At Rd.,Union City,ND,82051,STATELOCALGOVT
+5,Mullins Inc.,,4009 Ornare. Rd.,Birmingham,NE,59509,STATELOCALGOVT
+6,Raphael Allison,,734-2598 Sed Ave.,La Crosse,HI,58702,COMMERCIAL
+7,Martin Donaldson,,2704 At Rd.,Gardner,GA,31421,EDUCATION
+8,Gemma Castro,,9101 Duis St.,Passaic,VT,40926,USGOVT
+9,The Product Company (East),,20021 Barnes Rd.,Stratford,NY,13470,COMMERCIAL
+10,Hammett Farley,,1668 In St.,Yonkers,AK,18651,STATELOCALGOVT
+11,Austin Ferrell,,8666 Justo Rd.,Pullman,PA,55979,COMMERCIAL
+12,Cain,,1116 Augue Street,Warwick,DC,38450,STATELOCALGOVT
+13,Knight,,765 Eget Av.,Eureka,FL,57500,USGOVT
+14,Serrano,,7212 Eleifend. Street,Princeton,KY,66785,COMMERCIAL
+15,Colton Maldonado,,1869 Leo. Rd.,Cedar Rapids,SD,97640,COMMERCIAL
+16,Googol,,5453 Dictum. Ave.,Jenks,LA,96393,COMMERCIAL
+17,Mallory Lynch,,974 Nisl. Rd.,Washington,ME,15623,USGOVT
+18,Melvin House,,8371 Nullam Rd.,Isle of Palms,ME,89644,EDUCATION
+19,Emerson Electric Co.,,1792 Squash Dr.,South Texarkana,TX,75501,EDUCATION
+20,Pewter Gym,,9028 Non St.,Sandy,FL,87202,COMMERCIAL
+21,Hop Adams,,704 Nisl Rd.,Sun Valley,NH,84458,EDUCATION
+22,Xavier Harmon,,2285 Ante St.,Farmington,WV,16456,EDUCATION
+23,Cross,,112 In Rd.,Opelousas,GA,43882,USGOVT
+24,Martinez Disposables,,5331 Nunc Ave.,Tucson,DC,79991,USGOVT
+25,Atkins,,4607 Risus. Rd.,Waukegan,NC,43147,STATELOCALGOVT
+26,Dakota Mills,,7442 Amet Ave.,Syracuse,DE,56656,USGOVT
+27,Clare Baird,,6152 Auctor Rd.,Wilson,MS,29338,COMMERCIAL
+28,Schultz Learning,,8542 Quis St.,Spartanburg,ND,73217,EDUCATION
+29,Blevins,,2571 Donec Ave.,Winooski,SD,65512,COMMERCIAL
+30,Knox Reid,,500 Eu Av.,Pass Christian,WY,35949,COMMERCIAL
+31,Starfleet Academy,,3061 Donec Ave.,Canandaigua,UT,75963,EDUCATION
+32,Ferengi Treasures,,716-6837 Vulputate Ave,Paramount,NY,35644,COMMERCIAL
+33,Tallulah,,3376 Aliquet. St.,Batavia,NM,50742,COMMERCIAL
+34,The Product Company (West),,21 E Bullard Ave,Fresno,CA,93710,COMMERCIAL
+35,Ann Lee,,3845 Nunc Rd.,Merizo,GA,10764,USGOVT
+36,Kuame Barnes,,8757 Tincidunt. Rd.,Lahaina,RI,60529,USGOVT
+37,Beverly Equipment,,7581 Quisque St.,Bloomington,HI,88440,STATELOCALGOVT
+38,Firstfed America Bancorp Inc,,5656 Settler Street,Ward Prairie,TX,75840,EDUCATION
+39,Ronan French,,8773 Feugiat Rd.,Gary,WA,17387,EDUCATION
+40,Zena Machines,,1277 Hendrerit Ave.,San Juan,WA,7066,STATELOCALGOVT

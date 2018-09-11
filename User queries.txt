@@ -1,0 +1,54 @@
+
+--Query1
+SELECT a.calenderYear, a.calenderQuarter, CONCAT(FORMAT(((sales_total_per_quarter) / (total_sales))*100,2),"%" ) AS Percentage
+FROM (SELECT dd.calenderYear, dd.calenderQuarter, SUM(salesAmount) AS sales_total_per_quarter
+FROM finance_analysis.sales_finance_fact ef, finance_analysis.date_dim dd
+WHERE dd.date_sk = ef.salesDate_sk
+GROUP BY dd.calenderYear, dd.calenderQuarter) a
+INNER JOIN (SELECT dd.calenderYear, SUM(salesAmount) AS total_sales
+FROM finance_analysis.sales_finance_fact ef, finance_analysis.date_dim dd
+WHERE dd.date_sk = ef.salesDate_sk
+GROUP BY dd.calenderYear) b
+USING (calenderYear)
+ORDER BY calenderYear
+LIMIT 1000;
+
+--Query2
+SELECT customerName, COUNT(invoiceNo_DD) AS 'Number of transactions' 
+FROM customer_dim join sales_finance_fact using(customer_sk) 
+GROUP BY customerName  
+ORDER BY COUNT(invoiceNo_DD) DESC LIMIT 5;
+
+--Query3
+select prior.calenderYear, prior.calenderQuarter, prior.SalesAmount as '2005 year Sales Amount', current.SalesAmount as '2006 Year sales Amount' 
+from (select d1.calenderYear, d1.calenderQuarter, sum(s1.salesAmount) SalesAmount 
+from sales_finance_fact s1, date_dim d1
+where d1.calenderYear = '2005' and salesDate_SK = date_sk 
+group by d1.calenderYear, d1.calenderQuarter) prior
+join (select d2.calenderQuarter, sum(s2.salesAmount) SalesAmount from sales_finance_fact s2 , date_dim d2
+where d2.calenderYear = '2006' and salesDate_SK = date_sk
+group by d2.calenderQuarter) current 
+using (calenderQuarter) 
+group by prior.calenderYear, prior.calenderQuarter;
+
+--view1
+SELECT * FROM sales_finance_fact_view;
+
+--view2
+SELECT * FROM customer_info;
+
+--roll up
+select d1.calenderYear AS 'Year', d1.calenderQuarter AS 'Quarter', sum(s1.salesQuantity) As 'Sales Quantity' 
+from finance_analysis.sales_finance_fact s1, finance_analysis.date_dim d1 
+where salesDate_SK = date_sk  
+group by d1.calenderYear, d1.calenderQuarter with rollup;
+
+
+--shrunken
+create view shrunken_dim AS (SELECT CONCAT (DM.calenderYear, ', ', DM.calenderMonth) AS " Year, Month" , CD.customerName, SF.invoiceNo_DD , AVG(SF.processingDays) "Processing days"
+FROM sales_finance_fact SF, customer_dim CD , date_dim DM
+WHERE 
+SF.customer_SK = CD.customer_SK and 
+DM.date_sk = SF.salesDate_SK 
+GROUP BY DM.calenderYear, DM.calenderMonth, CD.customerName, SF.invoiceNo_DD
+having sum(SF.processingDays) > 0 order by sum(SF.processingDays) desc limit 50 );

@@ -1,0 +1,106 @@
+product_sk;prodID;prodDescription;price1;price2;unitCost;productTypeID;BuID;BuName;BuAbbrev
+44;67;Occlusion Manufacturing Equipment;199.9;177.3;164.9;2;A;Processing Equipment;Equipment
+45;63;Weeks Polishing Equipment        ;198.8;174.2;168.9;3;A;Processing Equipment;Equipment
+46;68;Loaves Polishing Equipment       ;425.6;361.3;354.1;3;A;Processing Equipment;Equipment
+47;95;Duplicator Polishing Equipment   ;544.3;465.4;432.8;3;A;Processing Equipment;Equipment
+48;36;Bomber Photo Equipment           ;461.3;400.4;380.4;1;A;Processing Equipment;Equipment
+49;18;Miniaturizing Manufacturing Equip;456.2;379.6;353;2;A;Processing Equipment;Equipment
+50;100;Pervasively Manufacturing Equipme;374.1;334.9;308.1;2;A;Processing Equipment;Equipment
+51;1;Enumerator Polishing Equipment   ;165;142.5;135.4;3;A;Processing Equipment;Equipment
+52;25;Chalmers Polishing Equipment     ;289.2;242.6;223.2;3;A;Processing Equipment;Equipment
+53;56;Allis Polishing Equipment        ;201.8;176.3;160.5;3;A;Processing Equipment;Equipment
+54;32;Chartable Photo Equipment        ;410.2;347.4;312.7;1;A;Processing Equipment;Equipment
+55;71;Simulations Photo Equipment      ;318.4;255.7;245.4;1;A;Processing Equipment;Equipment
+56;60;Habitually Manufacturing Equipmen;509.3;419.1;394;2;A;Processing Equipment;Equipment
+57;70;Escape Manufacturing Equipment   ;584.4;523.6;507.9;2;A;Processing Equipment;Equipment
+58;81;Palm Polishing Equipment         ;122.4;105.4;103.3;3;A;Processing Equipment;Equipment
+59;34;Sailors Manufacturing Equipment  ;340.5;290.4;278.8;2;A;Processing Equipment;Equipment
+60;85;Disallow Manufacturing Equipment ;165.2;145.9;144.4;2;A;Processing Equipment;Equipment
+61;38;Syntax Polishing Equipment       ;226.7;190.9;177.5;3;A;Processing Equipment;Equipment
+62;35;Chromium Photo Equipment         ;565.5;457.5;425.5;1;A;Processing Equipment;Equipment
+63;8;Septembers Manufacturing Equipmen;584.3;523;517.8;2;A;Processing Equipment;Equipment
+64;6;Planetesimal Manufacturing Equipm;347.3;307;285.5;2;A;Processing Equipment;Equipment
+65;40;Insensitivity Manufacturing Equip;200.7;180.4;169.6;2;A;Processing Equipment;Equipment
+66;44;Birthdays Manufacturing Equipment;196.6;173.2;161.1;2;A;Processing Equipment;Equipment
+67;61;Courthouses Manufacturing Equipme;285.6;243.6;231.4;2;A;Processing Equipment;Equipment
+68;87;Suing Manufacturing Equipment    ;482.2;426.7;401.1;2;A;Processing Equipment;Equipment
+69;21;Denigrating Polishing Equipment  ;566;454.5;427.2;3;A;Processing Equipment;Equipment
+70;93;Bellowing Polishing Equipment    ;502.6;451.3;446.8;3;A;Processing Equipment;Equipment
+71;37;Concentrators Polishing Equipment;584.6;524.9;482.9;3;A;Processing Equipment;Equipment
+72;26;Subclasses Polishing Equipment   ;282.5;239;236.6;3;A;Processing Equipment;Equipment
+73;20;Flake Photo Equipment            ;232.3;204.4;194.2;1;A;Processing Equipment;Equipment
+74;77;Vastest Photo Equipment          ;498.1;442.3;420.2;1;A;Processing Equipment;Equipment
+75;24;Bandage Manufacturing Equipment  ;298;267;253.7;2;A;Processing Equipment;Equipment
+76;65;Extinguisher Manufacturing Equipm;120.4;98.4;90.5;2;A;Processing Equipment;Equipment
+77;84;Unjust Paper Supplies            ;222.5;182.2;176.7;6;B;Disposable Supplies ;Supplies 
+78;105;Just Paper Supplies              ;278.6;201.3;192.7;6;B;Disposable Supplies ;Supplies 
+79;39;Overlays Plastic Supplies        ;301.1;254.4;241.7;7;B;Disposable Supplies ;Supplies 
+80;59;Tonnage Plastic Supplies         ;368.8;315.6;309.3;7;B;Disposable Supplies ;Supplies 
+81;92;Behind Tray Supplies             ;166.7;139;129.3;8;B;Disposable Supplies ;Supplies 
+82;17;Optima Cleaning Supplies         ;288.4;255.5;242.8;5;B;Disposable Supplies ;Supplies 
+83;101;Optima Cleaning Supplies         ;288.4;255.5;242.8;5;B;Disposable Supplies ;Supplies 
+84;10;Defeated Tray Supplies           ;559.7;476.9;448.3;8;B;Disposable Supplies ;Supplies 
+85;41;Consideration Tray Supplies      ;172.6;146.8;139.5;8;B;Disposable Supplies ;Supplies 
+86;96;Drafty Cleaning Supplies         ;107.1;92.7;89;5;B;Disposable Supplies ;Supplies 
+87;97;Stickiest Paper Supplies         ;575.9;502.8;467.6;6;B;Disposable Supplies ;Supplies 
+88;79;Siena Plastic Supplies           ;155;136.4;132.3;7;B;Disposable Supplies ;Supplies 
+89;69;Hits Tray Supplies               ;439.5;359.1;341.1;8;B;Disposable Supplies ;Supplies 
+90;90;Curiouser Cleaning Supplies      ;419.4;364.4;338.9;5;B;Disposable Supplies ;Supplies 
+91;23;Decided Tray Supplies            ;233.3;202.3;198.2;8;B;Disposable Supplies ;Supplies 
+92;58;Characterization Plastic Supplies;231.7;185.6;168.9;7;B;Disposable Supplies ;Supplies 
+93;80;Temporally Plastic Supplies      ;477.5;408.3;371.5;7;B;Disposable Supplies ;Supplies 
+94;72;Anthem Tray Supplies             ;134.9;112.4;109;8;B;Disposable Supplies ;Supplies 
+95;46;Distantly Paper Supplies         ;518.5;436.1;418.6;6;B;Disposable Supplies ;Supplies 
+96;55;Bumblers Plastic Supplies        ;545.3;466.2;447.6;7;B;Disposable Supplies ;Supplies 
+97;33;Consumable Tray Supplies         ;395.7;347.4;337;8;B;Disposable Supplies ;Supplies 
+98;4;Embodying Cleaning Supplies      ;250.9;213.5;207.1;5;B;Disposable Supplies ;Supplies 
+99;89;Travel Paper Supplies            ;129.8;108.8;103.4;6;B;Disposable Supplies ;Supplies 
+100;27;Pinnings Plastic Supplies        ;337.2;302.4;287.3;7;B;Disposable Supplies ;Supplies 
+101;31;Simplifier Tray Supplies         ;408.8;349.1;328.2;8;B;Disposable Supplies ;Supplies 
+102;88;Vestiges Tray Supplies           ;231.4;192.1;186.3;8;B;Disposable Supplies ;Supplies 
+103;48;Patriarchal Cleaning Supplies    ;351.5;284.8;264.8;5;B;Disposable Supplies ;Supplies 
+104;57;South Tray Supplies              ;241.3;205.1;203.1;8;B;Disposable Supplies ;Supplies 
+105;86;Soya Cleaning Supplies           ;406.9;345.9;345.9;5;B;Disposable Supplies ;Supplies 
+106;50;Restarts Paper Supplies          ;524.4;448.3;425.9;6;B;Disposable Supplies ;Supplies 
+107;91;Scribble Plastic Supplies        ;492.4;405.7;397.6;7;B;Disposable Supplies ;Supplies 
+108;54;Honeymoon Photo Chemicals        ;326.1;292.2;271.8;9;C;Chemicals           ;Chemicals
+109;9;Millimeters Flushing Chemicals   ;295.6;251.8;241.8;10;C;Chemicals           ;Chemicals
+110;49;Visage Flushing Chemicals        ;567.8;507.6;467;10;C;Chemicals           ;Chemicals
+111;14;Engle Photo Chemicals            ;429.9;346.1;342.6;9;C;Chemicals           ;Chemicals
+112;62;Substances Flushing Chemicals    ;507.3;409.9;397.6;10;C;Chemicals           ;Chemicals
+113;42;Carelessly Freezing Chemicals    ;559.7;467.9;425.8;11;C;Chemicals           ;Chemicals
+114;47;Significants Freezing Chemicals  ;141.6;113.2;104.2;11;C;Chemicals           ;Chemicals
+115;99;Richards Freezing Chemicals      ;529.4;475.4;470.6;11;C;Chemicals           ;Chemicals
+116;66;Exemplar Freezing Chemicals      ;198.4;160.9;152.8;11;C;Chemicals           ;Chemicals
+117;78;Measured Photo Chemicals         ;318.1;270.7;254.4;9;C;Chemicals           ;Chemicals
+118;102;Measured Photo Chemicals         ;318.1;270.7;254.4;9;C;Chemicals           ;Chemicals
+119;53;Ruffle Freezing Chemicals        ;476.4;394.9;379.1;11;C;Chemicals           ;Chemicals
+120;94;Beliefs Freezing Chemicals       ;566.6;483.9;454.9;11;C;Chemicals           ;Chemicals
+121;52;Identical Freezing Chemicals     ;578.1;465.9;447.3;11;C;Chemicals           ;Chemicals
+122;75;Deferrable Freezing Chemicals    ;145;124.4;113.2;11;C;Chemicals           ;Chemicals
+123;98;Barrels Flushing Chemicals       ;135.1;116.6;108.4;10;C;Chemicals           ;Chemicals
+124;28;Wonderingly Covers               ;547.2;467.3;453.3;13;D;Miscellaneous       ;         
+125;43;Blazed Covers                    ;495;416.8;404.3;13;D;Miscellaneous       ;         
+126;73;Cosgrove Jacks                   ;298.9;267.8;254.4;15;D;Miscellaneous       ;         
+127;5;Automobiles Fillers              ;283.8;227.6;218.5;12;D;Miscellaneous       ;         
+128;12;Travelings Photo Chemicals       ;274.4;242;225.1;12;D;Miscellaneous       ;         
+129;29;Bluest Fillers                   ;507.4;428.2;398.2;12;D;Miscellaneous       ;         
+130;2;Tailor Jacks                     ;509.8;429.7;399.7;15;D;Miscellaneous       ;         
+131;64;Berwick Fillers                  ;583.9;487.5;463.1;12;D;Miscellaneous       ;         
+132;74;Flanker Fillers                  ;271.4;236.2;219.6;12;D;Miscellaneous       ;         
+133;11;Sulkiness Covers                 ;354.3;289.8;272.4;13;D;Miscellaneous       ;         
+134;16;Enhanced Covers                  ;461;384.4;361.4;13;D;Miscellaneous       ;         
+135;45;Slacking Jacks                   ;495;400;388;15;D;Miscellaneous       ;         
+136;76;Scrounge Jacks                   ;301.6;251.2;248.7;15;D;Miscellaneous       ;         
+137;7;Commendation Fillers             ;436.3;380;364.8;12;D;Miscellaneous       ;         
+138;15;Disposed Fillers                 ;158.8;138;132.5;12;D;Miscellaneous       ;         
+139;3;Sortie Covers                    ;248.2;213.2;206.8;13;D;Miscellaneous       ;         
+140;13;Coward Covers                    ;429.8;349;328.1;13;D;Miscellaneous       ;         
+141;104;LCARS Covers                     ;289.4;231.4;211.8;13;D;Miscellaneous       ;         
+142;51;Reflection Lifts                 ;497.9;447.6;438.6;14;D;Miscellaneous       ;         
+143;19;Hesitating Jacks                 ;124.5;100.1;96.1;15;D;Miscellaneous       ;         
+144;83;Horses Lifts                     ;487.3;402.5;366.3;14;D;Miscellaneous       ;         
+145;103;Whale Lifts                      ;493.4;406.8;385.4;14;D;Miscellaneous       ;         
+146;82;Numerals Covers                  ;102.9;89;83.6;13;D;Miscellaneous       ;         
+147;22;Whippers Covers                  ;488.6;410.4;389.9;13;D;Miscellaneous       ;         
+148;30;Detectives Jacks                 ;283.3;248.5;236.1;15;D;Miscellaneous       ;         

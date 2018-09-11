@@ -1,0 +1,15 @@
+supplier_sk,supplierID,supplierName,supplierAddress1,supplierAddress2,supplierCity,supplierState,supplierZip
+1,7,Afg Industries Incorporation  , Dorothy Polk             ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967
+2,8,American General Ventures Inco, Kimberly Yarborough      ,1616 Goggles Drive    ,Sterling        ,KS,67579
+3,3,Black Hills Corporation       , Edena Gilbert            ,1618 Greenland Street ,Tallahassee     ,FL,32304
+4,5,Dollar General Corporation    , Antoinette Hickey        ,3988 Chanced Avenue   ,S Middleton     ,PA,17007
+5,9,Fedders Corporation           , Virgil Hubert            ,7844 Carelessly Drive ,Overlook        ,WA,98366
+6,6,First Bancshares Incorporation, Jensine Lease            ,11885 Aural Turnpike  ,Louisville      ,KY,40253
+7,4,Immunex Corporation           , Elbert Glad              ,5841 Pervades Drive   ,Fairfax         ,VA,22035
+8,10,Saurer Gruppe Holding Agency  , Pearce Valdez            ,3727 Elms Drive       ,South Saint Paul,MN,55077
+9,2,Sinclair Broadcast Group Incor, Carla Shelby             ,6037 Ecuadorian Street,Clinton         ,MI,49236
+10,1,Specialty Teleconstructors Inc, Zylina Cox               ,2161 Chalmers Street  ,Salinas         ,CA,93905
+11,-1,TPC West,,,,,
+12,-1,TPC East,,,,,
+13,-1,PEC,,,,,
+14,,,,,,,
